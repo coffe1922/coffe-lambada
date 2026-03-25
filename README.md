@@ -1,2 +1,12 @@
 # coffe-lambada
 index.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Website Saya</title>
+</head>
+<body>
+  <h1>Halo 👋</h1>
+  <p>Ini website pertama saya di GitHub Pages 🚀</p>
+</body>
+</html>
